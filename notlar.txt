@@ -1,12 +1,19 @@
 # cd yazdıktan sonra gitmek istenen alt dosya adı yazılır
+
 # py xxxxxx.py ile python dosyası çalıştırılır
+
 # cd .. üst dosyaya çıkılır
+
 # terminal boyutu için:
 #  Ctrl + Shift + P ye bas 
 # Open Settings (JSON) ' a git ;)
+
 # çoklu yorum satırı için
 # ilgili satırları seç ve ctrl + k + c ye bas
+#ctrl + k + u yorum satırını geri alma
+
 #cls terminali temizler
 ''' üç tek tırnak
 veya üç çift tırnak
 çoklu yorum satırı yapar'''
+# tırnak içinde \n alt satıra gönderir 
