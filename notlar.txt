@@ -1,3 +1,5 @@
+#https://GoalKicker.com/PythonBook
+
 # cd yazdıktan sonra gitmek istenen alt dosya adı yazılır
 
 # py xxxxxx.py ile python dosyası çalıştırılır
