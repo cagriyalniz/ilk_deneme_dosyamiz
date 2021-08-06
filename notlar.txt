@@ -7,3 +7,6 @@
 # çoklu yorum satırı için
 # ilgili satırları seç ve ctrl + k + c ye bas
 #cls terminali temizler
+''' üç tek tırnak
+veya üç çift tırnak
+çoklu yorum satırı yapar'''
