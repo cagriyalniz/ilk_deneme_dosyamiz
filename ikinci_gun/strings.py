@@ -22,3 +22,10 @@ print('adim: {a}, yasim: {y}'.format(a=ad, y=yas))
 print(f'ben {ad}, {yas} yaşındayım')
 print(kisi[-5: -1])
 print(kisi[1:len(kisi)])
+
+print(kisi[::])
+print(kisi[::2])
+print(kisi[::-1])
+
+print(kisi.replace('r', 'l'))
+print(kisi)
